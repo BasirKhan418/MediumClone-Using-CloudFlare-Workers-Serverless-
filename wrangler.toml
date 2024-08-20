@@ -1,0 +1,24 @@
+name = "medium-clone"
+compatibility_date = "2024-08-20"
+
+# [vars]
+# MY_VAR = "my-variable"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYzUwMzliNzctMjNjYy00NzQ4LTljNzAtYTcwOWQ2MGEyNzVlIiwidGVuYW50X2lkIjoiZWM3YTMwMzU0MzFkOTQ2M2ZkMTYyODA3ZWQyMmViMjA0YjA0MDdjOTBkMjUzZjY4Y2YyNTIyNTZiYWZkMmU5OSIsImludGVybmFsX3NlY3JldCI6IjUzYzg0MTgwLTZjMWYtNDg3Zi04Y2MxLThlYmMxYjc0NzQ0OCJ9.ox32gLefTNZ-ju-l28UUca_nsNyoZvzRTwM6KG9Xf40"
+JWT_SECRET="BASIR83737HJDHDT!252FLJDIUD@#$25"
